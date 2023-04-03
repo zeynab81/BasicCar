@@ -6,5 +6,11 @@ public class Main {
         bmw.model="x6";
         bmw.power="7000cc";
 
+        Interior interior = new Interior();
+        interior.colorOfInterior = "brown";
+        interior.stereoSystem = "Harman Kardon";
+        interior.heatingSeats = true;
+        interior.coolingSeats = true;
+
     }
 }
