@@ -12,5 +12,11 @@ public class Main {
         interior.heatingSeats = true;
         interior.coolingSeats = true;
 
+        project V =new project();
+        V.color="blue";
+        V.price="67000";
+        V.model="HW8838";
+        V.weight="230";
+
     }
 }
